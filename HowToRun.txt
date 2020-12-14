@@ -1,0 +1,9 @@
+To run the code ....
+
+1. Naviagte to BORN-Test\src\mocks
+2. Open CMD or Terminal or Console and run 
+   Mockserver -p 1900 -m mocks
+
+3. Open console and run npm start to run the application
+
+NOTE ==> Mockserver returns resoponse success which is logged in console of browser
